@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+spark-warehouse/
+metastore_db/
+derby.log
+data/delta/
+.DS_Store
